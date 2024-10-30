@@ -1,0 +1,110 @@
+/*
+This file is part of CGML.
+
+CGML is free software: you can redistribute it and/or modify
+it under the terms of the GNU General Public License as published by
+the Free Software Foundation, either version 3 of the License, or
+(at your option) any later version.
+
+CGML is distributed in the hope that it will be useful,
+but WITHOUT ANY WARRANTY; without even the implied warranty of
+MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+GNU General Public License for more details.
+
+You should have received a copy of the GNU General Public License
+along with CGML.  If not, see <http://www.gnu.org/licenses/>.
+ */
+
+/*
+ * CGML CSS Design
+ * Author: Celogeek
+ * Author URI: http://blog.celogeek.fr
+ */
+
+#cgml-header {
+}
+
+#cgml-container {
+  margin-top: 20px;
+}
+
+#cgml-footer {
+}
+
+
+fieldset.cgml-admin {
+   margin-top: 20px;
+   border: 1px solid black;
+   padding: 15px;
+   width: 650px;
+}
+
+fieldset.cgml-admin legend {
+  font-weight: bold; 
+  padding: 0px 10px 0px 10px;
+}
+fieldset.cgml-admin label {
+   width: 150px;
+   float: left;
+   text-align: right;
+   margin-right: 15px;
+   clear: left;
+}
+
+fieldset.cgml-admin input,select {
+   float: left;
+   clear: right;
+}
+
+fieldset.cgml-admin input.cgml-submit {
+   width: 120px;
+   margin-top: 5px;
+   text-align: center;
+}
+
+span.cgml-flash-info {
+   color: #00AA00;
+   font-style: italic;
+   font-size: 14px;
+   font-weight: bold;
+}
+
+fieldset.cgml-admin table {
+  border: 1px solid black;
+  width: 100%;
+  text-align: right;
+  padding: 0;
+}
+
+
+fieldset.cgml-admin table tbody td form{
+float: right;
+}
+
+fieldset.cgml-admin table thead th{
+   background-color: #000000;
+   color: #FFFFFF;
+   padding: 0;
+}
+
+fieldset.cgml-admin table tbody tr.odd{
+   background-color: #F0F0F0;
+}
+
+fieldset.cgml-admin table tbody tr.even{
+   background-color: #CCCCCC;
+}
+
+fieldset.cgml-admin div#cgml-help {
+   display: none;
+}
+fieldset.cgml-admin input#cgml-button-openHelp {
+   display: block;
+}
+fieldset.cgml-admin input#cgml-button-closeHelp {
+   display: none;
+}
+
+span.red {
+   color: #CC0000;
+}

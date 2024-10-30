@@ -1,0 +1,189 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: CGML\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2009-09-03 11:29+0100\n"
+"PO-Revision-Date: \n"
+"Last-Translator: Celogeek <geistteufel@celogeek.fr>\n"
+"Language-Team: Celogeek <geistteufel@celogeek.fr>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=n>1;\n"
+"X-Poedit-Language: French\n"
+"X-Poedit-Country: FRANCE\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: __;_e;_c\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../templates/admin-header.php:20
+#: ../templates/widget-sidebar.php:71
+#: ../templates/admin-help.php:23
+#: ../inc/widget.php:47
+#: ../inc/widget.php:73
+msgid "Celogeek Multi Languages"
+msgstr "Celogeek Multi Langues"
+
+#: ../templates/admin-header.php:21
+msgid "CGML is a multi languages system that allow you to link many blog together. Each blog correspond to a specific language."
+msgstr "CGML est un système multilangues qui vous permet de lier plusieurs blog entre eux. Chaque blog correspond à une langue spécifique."
+
+#: ../templates/admin-notice.php:19
+msgid "CGML must be activated"
+msgstr "CGML doit être activé"
+
+#: ../templates/admin-notice.php:19
+msgid "Go to"
+msgstr "Aller à"
+
+#: ../templates/admin-notice.php:19
+msgid "the admin page"
+msgstr "la page d'administration"
+
+#: ../templates/admin-notice.php:19
+msgid "to enable and configure the plugin"
+msgstr "pour activer et configurer l'extension"
+
+#: ../templates/widget-sidebar.php:71
+msgid "Powered by"
+msgstr "Propulsé par"
+
+#: ../templates/admin-sponsors.php:20
+msgid "Thanks Me"
+msgstr "Remerciez-moi"
+
+#: ../templates/admin-sponsors.php:23
+msgid "Here some way to say thanks you"
+msgstr "Voici quelques façons de me dire merci"
+
+#: ../templates/admin-sponsors.php:25
+msgid "Donate"
+msgstr "Donation"
+
+#: ../templates/admin-sponsors.php:37
+msgid "Visit my sponsor"
+msgstr "Visitez mes sponsors"
+
+#: ../templates/admin-sponsors.php:56
+msgid "Contact me here"
+msgstr "Contactez moi ici"
+
+#: ../templates/admin-sponsors.php:64
+msgid "Visit my blog"
+msgstr "Visitez mon blog"
+
+#: ../templates/admin-form.php:21
+msgid "Add language"
+msgstr "Ajouter une langue"
+
+#: ../templates/admin-form.php:24
+msgid "Flags"
+msgstr "Drapeaux"
+
+#: ../templates/admin-form.php:36
+msgid "Custom Key"
+msgstr "Clef personalisée"
+
+#: ../templates/admin-form.php:41
+msgid "Language label"
+msgstr "Libellé de la langue"
+
+#: ../templates/admin-form.php:46
+msgid "URL"
+msgstr "URL"
+
+#: ../templates/admin-form.php:51
+#: ../templates/admin-activate.php:31
+msgid "Validate"
+msgstr "Valider"
+
+#: ../templates/admin-help.php:20
+msgid "Help"
+msgstr "Aide"
+
+#: ../templates/admin-help.php:22
+msgid "See plugin home dir"
+msgstr "Voir la page d'accueil du plugin"
+
+#: ../templates/admin-activate.php:21
+msgid "Activate the plugin"
+msgstr "Activer l'extension"
+
+#: ../templates/admin-activate.php:24
+msgid "Activate"
+msgstr "Activer"
+
+#: ../templates/admin-activate.php:27
+msgid "no"
+msgstr "non"
+
+#: ../templates/admin-activate.php:28
+msgid "yes"
+msgstr "oui"
+
+#: ../templates/admin-show.php:20
+msgid "Available languages"
+msgstr "Langues disponibles"
+
+#: ../templates/admin-show.php:41
+msgid "Delete"
+msgstr "Supprimer"
+
+#: ../templates/widget-control.php:23
+msgid "Title"
+msgstr "Titre"
+
+#: ../templates/widget-control.php:29
+msgid "Show all languages"
+msgstr "Afficher toutes les langues"
+
+#: ../templates/widget-control.php:35
+msgid "Strikethrough missing languages"
+msgstr "Barrer les langues manquantes"
+
+#: ../templates/widget-control.php:41
+msgid "No language text"
+msgstr "Texte d'absence de langue"
+
+#: ../templates/widget-control.php:47
+msgid "Show powered text"
+msgstr "Afficher le texte \"propulsé\""
+
+#: ../inc/widget.php:53
+msgid "Other Languages"
+msgstr "Langues disponibles"
+
+#: ../inc/widget.php:56
+msgid "No other languages available"
+msgstr "Pas d'autres langues disponibles"
+
+#: ../inc/admin.php:21
+msgid "Settings"
+msgstr "Réglages"
+
+#: ../inc/admin.php:39
+msgid "Loading page"
+msgstr "Chargement de la page"
+
+#: ../inc/admin.php:64
+msgid "Language added !"
+msgstr "Langue ajoutée !"
+
+#: ../inc/admin.php:70
+msgid "Language deleted !"
+msgstr "Langue supprimée !"
+
+#: ../inc/admin.php:76
+msgid "Plugin activated !"
+msgstr "Extension activée !"
+
+#: ../inc/admin.php:78
+msgid "Plugin disactivated !"
+msgstr "Extension désactivée !"
+
+#~ msgid "Celogeek Multi Language"
+#~ msgstr "Celogeek Multilangue"
+#~ msgid "The classical donate"
+#~ msgstr "Le don classique"
+
